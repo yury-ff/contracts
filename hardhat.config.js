@@ -24,3 +24,7 @@ module.exports = {
     },
   },
 };
+
+
+
+//forge create --rpc-url "https://eth-sepolia.g.alchemy.com/v2/8ihtlloOPOfwjIwAQNjuzLlzu2S-ZKbZ" --constructor-args "1000000000000000" "0x668B6724F80591FC5482Aa628017Ee6338898E52" --private-key "c19071cae74771e9950cefd6a76cf2e0fecd1f23b60cc0bef209ddf19754052a" --out contracts/out contracts/tokens/Tuto.sol:Tuto
